@@ -5,49 +5,41 @@
 },
 {
 "id":"1",
-"name":"ابن كثير",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/katheer.json",
-"size":15646720
+"name":"تفسير ابن كثير",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/katheer.json"
 },
 {
 "id":"2",
-"name":"السعدي",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/sa3dy.json",
-"size":6209536
+"name":"تفسير السعدي",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/sa3dy.json"
 },
 {
 "id":"3",
-"name":"القُرْطُبي",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/qortoby.json",
-"size":20131840
+"name":"تفسير القُرْطُبي",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/qortoby.json"
 },
 {
 "id":"4",
-"name":"الطَبرِي",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/tabary.json",
-"size":35780608
+"name":"تفسير الطَبرِي",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/tabary.json"
 },
 {
 "id":"5",
-"name":"البغوي",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/baghawy.json",
-"size":7804928
+"name":"تفسير البغوي",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/baghawy.json"
 },
 {
 "id":"6",
-"name":"الوسيط",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/waseet.json",
-"size":18990080
+"name":"التفسير الوسيط",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/waseet.json"
 },
 {
 "id":"7",
-"name":"التحرير والتنوير",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/tanweer.json",
-"size":28385280
+"name":"تفسير التحرير والتنوير",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/tanweer.json"
 },
 {
 "id":"8",
-"name":"الجلالين",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/raw/main/Tafaseer/jalalayn.json",
-"size":1940480
+"name":"تفسير الجلالين",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/jalalayn.json"
 }]
