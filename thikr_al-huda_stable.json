@@ -1,19 +1,8 @@
-<<<<<<< HEAD
 {"thikr_alhuda":[
-				{
-				"version_number":"1.0.0",
-				"update_date":"بسم الله",
-				"optional_update":true,
-				"whats_new":["لا توجد مستجدات."],
-				"download_link":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/v1.0.0/Thikr_al-huda_v1.0.0.apk"
-				}]}
-=======
-{"thikr_alhuda":[
-				{
-				"version_number":"1.0.0",
-				"update_date":"بسم الله",
-				"optional_update":true,
-				"whats_new":["لا توجد مستجدات."],
-				"download_link":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/v1.0.0/Thikr_al-huda_v1.0.0.apk"
-				}]}
->>>>>>> d7e58ff15479af8e287ff13a11152b166e1e6919
+{
+"version_number":"2.0.0",
+"update_date":"الثاني رمضان الثاني عشر من مارس.\n12/3",
+"optional_update":false,
+"whats_new":[],
+"download_link":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/latest_version/Thikr_al-huda_latest_version.apk"
+}]}
