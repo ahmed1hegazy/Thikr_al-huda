@@ -1,16 +1,353 @@
-[{
-"id":"sq.nahi",
-"language":"Albanian",
-"direction":"ltr",
-"name":"Efendi Nahi",
-"translator":"Hasan Efendi Nahi",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/sq.nahi.json"
+[
+{
+"id": "1",
+"language": "Albanian",
+"name": "Efendi Nahi",
+"translator": "Hasan Efendi Nahi",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/sq.nahi.json",
+"direction": "ltr"
 },
 {
-"id":"sq.mehdiu",
-"translator":"Feti Mehdiu",
-"language":"Albanian",
-"direction":"ltr",
-"name":"Feti Mehdiu",
-"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/sq.mehdiu.json"
-}]
+"id": "2",
+"language": "Albanian",
+"name": "Feti Mehdiu",
+"translator": "Feti Mehdiu",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/sq.mehdiu.json",
+"direction": "ltr"
+},
+{
+"id": "3",
+"language": "Albanian",
+"name": "Sherif Ahmeti",
+"translator": "Sherif Ahmeti",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/sq.ahmeti.json",
+"direction": "ltr"
+},
+{
+"id": "4",
+"language": "Amazigh",
+"name": "At Mensur",
+"translator": "Ramdane At Mansour *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/ber.mensur.json",
+"direction": "ltr"
+},
+{
+"id": "5",
+"language": "Amharic",
+"name": "ሳዲቅ & ሳኒ ሐቢብ",
+"translator": "Muhammed Sadiq and Muhammed Sani Habib *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/am.sadiq.json",
+"direction": "ltr"
+},
+{
+"id": "6",
+"language": "Azerbaijani",
+"name": "Məmmədəliyev & Bünyadov",
+"translator": "Vasim Mammadaliyev and Ziya Bunyadov * †",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/az.mammadaliyev.json",
+"direction": "ltr"
+},
+{
+"id": "7",
+"language": "Azerbaijani",
+"name": "Musayev",
+"translator": "Alikhan Musayev",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/az.musayev.json",
+"direction": "ltr"
+},
+{
+"id": "8",
+"language": "Bengali",
+"name": "জহুরুল হক",
+"translator": "Zohurul Hoque *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/bn.hoque.json",
+"direction": "ltr"
+},
+{
+"id": "9",
+"language": "Bengali",
+"name": "মুহিউদ্দীন খান",
+"translator": "Muhiuddin Khan",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/bn.bengali.json",
+"direction": "ltr"
+},
+{
+"id": "10",
+"language": "Bosnian",
+"name": "Korkut",
+"translator": "Besim Korkut *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/bs.korkut.json",
+"direction": "ltr"
+},
+{
+"id": "11",
+"language": "Bosnian",
+"name": "Mlivo",
+"translator": "Mustafa Mlivo",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/bs.mlivo.json",
+"direction": "ltr"
+},
+{
+"id": "12",
+"language": "Bulgarian",
+"name": "Теофанов",
+"translator": "Tzvetan Theophanov",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/bg.theophanov.json",
+"direction": "ltr"
+},
+{
+"id": "13",
+"language": "Chinese",
+"name": "Ma Jian",
+"translator": "Ma Jian",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/zh.jian.json",
+"direction": "ltr"
+},
+{
+"id": "14",
+"language": "Chinese",
+"name": "Ma Jian (Traditional)",
+"translator": "Ma Jian",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/zh.majian.json",
+"direction": "ltr"
+},
+{
+"id": "15",
+"language": "Czech",
+"name": "Hrbek",
+"translator": "Preklad I. Hrbek",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/cs.hrbek.json",
+"direction": "ltr"
+},
+{
+"id": "16",
+"language": "Czech",
+"name": "Nykl",
+"translator": "A. R. Nykl",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/cs.nykl.json",
+"direction": "ltr"
+},
+{
+"id": "17",
+"language": "Divehi",
+"name": "ދިވެހި",
+"translator": "Office of the President of Maldives",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/dv.divehi.json",
+"direction": "rtl"
+},
+{
+"id": "18",
+"language": "Dutch",
+"name": "Keyzer",
+"translator": "Salomo Keyzer",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/nl.keyzer.json",
+"direction": "ltr"
+},
+{
+"id": "19",
+"language": "Dutch",
+"name": "Leemhuis",
+"translator": "Fred Leemhuis",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/nl.leemhuis.json",
+"direction": "ltr"
+},
+{
+"id": "20",
+"language": "Dutch",
+"name": "Siregar",
+"translator": "Sofian S. Siregar",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/nl.siregar.json",
+"direction": "ltr"
+},
+{
+"id": "21",
+"language": "English",
+"name": "Ahmed Ali",
+"translator": "Ahmed Ali *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.ahmedali.json",
+"direction": "ltr"
+},
+"id": "22",
+"language": "English",
+"name": "Arberry",
+"translator": "A. J. Arberry *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.arberry.json",
+"direction": "ltr"
+},
+{
+"id": "23",
+"language": "English",
+"name": "Daryabadi",
+"translator": "Abdul Majid Daryabadi *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.daryabadi.json",
+"direction": "ltr"
+},
+{
+"id": "24",
+"language": "English",
+"name": "Hilali & Khan",
+"translator": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.hilali.json",
+"direction": "ltr"
+},
+{
+"id": "25",
+"language": "English",
+"name": "Itani",
+"translator": "Talal Itani",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.itani.json",
+"direction": "ltr"
+},
+{
+"id": "26",
+"language": "English",
+"name": "Maududi",
+"translator": "Abul Ala Maududi *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.maududi.json",
+"direction": "ltr"
+},
+{
+"id": "27",
+"language": "English",
+"name": "Mubarakpuri",
+"translator": "Safi-ur-Rahman al-Mubarakpuri *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.mubarakpuri.json",
+"direction": "ltr"
+},
+{
+"id": "28",
+"language": "English",
+"name": "Pickthall",
+"translator": "Mohammed Marmaduke William Pickthall *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.pickthall.json",
+"direction": "ltr"
+},
+{
+"id": "29",
+"language": "English",
+"name": "Qarai",
+"translator": "Ali Quli Qarai",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.qarai.json",
+"direction": "ltr"
+},
+{
+"id": "30",
+"language": "English",
+"name": "Qaribullah & Darwish",
+"translator": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.qaribullah.json",
+"direction": "ltr"
+},
+{
+"id": "31",
+"language": "English",
+"name": "Saheeh International",
+"translator": "Saheeh International *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.sahih.json",
+"direction": "ltr"
+},
+{
+"id": "32",
+"language": "English",
+"name": "Sarwar",
+"translator": "Muhammad Sarwar *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.sarwar.json",
+"direction": "ltr"
+},
+{
+"id": "33",
+"language": "English",
+"name": "Shakir",
+"translator": "Mohammad Habib Shakir *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.shakir.json",
+"direction": "ltr"
+},
+{
+"id": "34",
+"language": "English",
+"name": "Transliteration",
+"translator": "English Transliteration",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.transliteration.json",
+"direction": "ltr"
+},
+{
+"id": "35",
+"language": "English",
+"name": "Wahiduddin Khan",
+"translator": "Wahiduddin Khan *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.wahiduddin.json",
+"direction": "ltr"
+},
+{
+"id": "36",
+"language": "English",
+"name": "Yusuf Ali",
+"translator": "Abdullah Yusuf Ali *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/en.yusufali.json",
+"direction": "ltr"
+},
+{
+"id": "37",
+"language": "French",
+"name": "Hamidullah",
+"translator": "Muhammad Hamidullah *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/fr.hamidullah.json",
+"direction": "ltr"
+},
+{
+"id": "38",
+"language": "German",
+"name": "Abu Rida",
+"translator": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/de.aburida.json",
+"direction": "ltr"
+},
+{
+"id": "39",
+"language": "German",
+"name": "Bubenheim & Elyas",
+"translator": "A. S. F. Bubenheim and N. Elyas *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/de.bubenheim.json",
+"direction": "ltr"
+},
+{
+"id": "40",
+"language": "German",
+"name": "Khoury",
+"translator": "Adel Theodor Khoury *",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/de.khoury.json",
+"direction": "ltr"
+},
+{
+"id": "41",
+"language": "German",
+"name": "Zaidan",
+"translator": "Amir Zaidan",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/de.zaidan.json",
+"direction": "ltr"
+},
+{
+"id": "42",
+"language": "Hausa",
+"name": "Gumi",
+"translator": "Abubakar Mahmoud Gumi",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/ha.gumi.json",
+"direction": "ltr"
+},
+{
+"id": "43",
+"language": "Hindi",
+"name": "फ़ारूक़ ख़ान & अहमद",
+"translator": "Muhammad Farooq Khan and Muhammad Ahmed",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/hi.farooq.json",
+"direction": "ltr"
+},
+{
+"id": "44",
+"language": "Hindi",
+"name": "फ़ारूक़ ख़ान & नदवी",
+"translator": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+"url": "https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/Quran-translations/hi.hindi.json",
+"direction": "ltr"
+}
+]
