@@ -1,1 +1,87 @@
-
+[
+    {
+"id": "1",
+"name": "إبراهيم الأخضر",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+            {
+        "quality": 32,
+        "size": 540522537,
+        "url": "https://verse.mp3quran.net/arabic/ibrahim_alakhdar/32/"
+            }
+        ]
+    },
+    {
+"id": "4",
+"name": "أبو بكر الشاطري",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+            {
+        "quality": 64,
+        "size": 827893679,
+        "url": "https://verse.mp3quran.net/arabic/shaik_abu_baker_alshatri/64/"
+            },
+            {
+        "quality": 128,
+        "size": 1469079586,
+        "url": "https://verse.mp3quran.net/arabic/shaik_abu_baker_alshatri/128/"
+            }
+        ]
+    },
+    {
+"id": "5",
+"name": "أحمد بن علي العجمي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+            {
+        "quality": 64,
+        "size": 800502004,
+        "url": "https://verse.mp3quran.net/arabic/ahmed_alajmy/64/"
+            },
+            {
+        "quality": 128,
+        "size": 1547391286,
+        "url": "https://verse.mp3quran.net/arabic/ahmed_alajmy/128/"
+            }
+        ]
+    },
+    {
+"id": "9",
+"name": "أحمد نعينع",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+            {
+        "quality": 64,
+        "size": 921477257,
+        "url": "https://verse.mp3quran.net/arabic/ahmed_neana/64/"
+            },
+            {
+        "quality": 128,
+        "size": 1787108629,
+        "url": "https://verse.mp3quran.net/arabic/ahmed_neana/128/"
+            }
+        ]
+    },
+    {
+"id": "10",
+"name": "أكرم العلاقمي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+            {
+        "quality": 64,
+        "size": 862194347,
+        "url": "https://verse.mp3quran.net/arabic/akram_alalaqmy/64/"
+            },
+            {
+        "quality": 128,
+        "size": 1664463884,
+        "url": "https://verse.mp3quran.net/arabic/akram_alalaqmy/128/"
+            }
+        ]
+    },
+]
