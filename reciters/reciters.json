@@ -7,7 +7,7 @@
 "bit_rates": [
             {
         "quality": 32,
-        "size": 540522537,
+        "size": 540602868,
         "url": "https://verse.mp3quran.net/arabic/ibrahim_alakhdar/32/"
             }
         ]
@@ -83,4 +83,139 @@
         "url": "https://verse.mp3quran.net/arabic/akram_alalaqmy/128/"
             }
         ]
-    }]
+    },
+{
+"id":"14",
+"name":"ياسين الجزائري",
+"rewaya":"ورش عن نافع",
+"musshaf_type":1,
+"bit_rates":[
+{
+"quality":64,
+"size":666609571,
+"url":"https://www.everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/"
+}
+]
+},
+    {
+        "id": "21",
+        "name": "خالد القحطاني",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 1113799171,
+                "url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/64/"
+            },
+            {
+                "quality": 128,
+                "size": 2077592963,
+                "url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/128/"
+            },
+            {
+                "quality": 192,
+                "size": 2322110255,
+                "url": "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "name": "خليفة الطنيجي",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 847721287,
+                "url": "https://verse.mp3quran.net/arabic/khalefa_altunaiji/64/"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "name": "سعود الشريم",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 552995685,
+                "url": "https://verse.mp3quran.net/arabic/saud_alshuraim/64/"
+            },
+            {
+                "quality": 128,
+                "size": 1101057096,
+                "url": "https://verse.mp3quran.net/arabic/saud_alshuraim/128/"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "name": "سهل ياسين",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 755864705,
+                "url": "https://verse.mp3quran.net/arabic/sahl_yassin/64/"
+            },
+            {
+                "quality": 128,
+                "size": 1452689069,
+                "url": "https://verse.mp3quran.net/arabic/sahl_yassin/128/"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "name": "شهريار برهيزكار",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 40,
+                "size": 598655872,
+                "url": "https://everyayah.com/data/Parhizgar_48kbps/"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "name": "صلاح البدير",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 659765980,
+                "url": "https://verse.mp3quran.net/arabic/salah_albudair/64/"
+            },
+            {
+                "quality": 128,
+                "size": 1355249061,
+                "url": "https://verse.mp3quran.net/arabic/salah_albudair/128/"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "name": "صلاح بو خاطر",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 733716870,
+                "url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/64/"
+            },
+            {
+                "quality": 128,
+                "size": 1408521878,
+                "url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/128/"
+            }
+        ]
+    }
+]
