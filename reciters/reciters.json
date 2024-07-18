@@ -169,6 +169,19 @@
             }
         ]
     },
+{
+"id": "1",
+"name": "سعد الغامدي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 40,
+"size": 443859880,
+"url": "https://www.everyayah.com/data/Ghamadi_40kbps/"
+}
+]
+}
     {
         "id": "33",
         "name": "شهريار برهيزكار",
@@ -217,5 +230,363 @@
                 "url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/128/"
             }
         ]
-    }
+    },
+    {
+        "id": "51",
+        "name": "عبدالباسط عبدالصمد ",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 903568387,
+                "url": "https://www.everyayah.com/data/Abdul_Basit_Murattal_64kbps/"
+            },
+            {
+                "quality": 192,
+                "size": 2679668090,
+                "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "name": "عبدالباسط عبدالصمد",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 2,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 1913891304,
+                "url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/64/"
+            },
+            {
+                "quality": 128,
+                "size": 3529949522,
+                "url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/128/"
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "name": "عبدالرحمن السديس",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 64,
+                "size": 670054273,
+                "url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/64/"
+            },
+            {
+                "quality": 128,
+                "size": 1499601384,
+                "url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/128/"
+            },
+            {
+                "quality": 192,
+                "size": 1813519256,
+                "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/"
+            }
+        ]
+    },
+[
+    {
+        "id": "55",
+        "name": "عزيز عليلي",
+        "rewaya": "حفص عن عاصم",
+        "musshaf_type": 1,
+        "bit_rates": [
+            {
+                "quality": 128,
+                "size": 1476037256,
+                "url": "https://www.everyayah.com/data/aziz_alili_128kbps/"
+            }
+        ]
+    },
+{
+"id": "59",
+"name": "عبدالله المطرود",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 856148183,
+"url": "https://verse.mp3quran.net/arabic/abdullah_almatroud/64/"
+},
+{
+"quality": 128,
+"size": 1660923527,
+"url": "https://verse.mp3quran.net/arabic/abdullah_almatroud/128/"
+}
+]
+},
+{
+"id": "60",
+"name": "عبدالله بصفر",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 32,
+"size": 454900336,
+"url": "https://everyayah.com/data/Abdullah_Basfar_32kbps/"
+},
+{
+"quality": 64,
+"size": 916869802,
+"url": "https://verse.mp3quran.net/arabic/abdullah_basfar/64/"
+},
+{
+"quality": 128,
+"size": 1953546802,
+"url": "https://verse.mp3quran.net/arabic/abdullah_basfar/128/"
+},
+{
+"quality": 192,
+"size": 2566894171,
+"url": "https://everyayah.com/data/Abdullah_Basfar_192kbps/"
+}
+]
+},
+{
+"id": "62",
+"name": "عبدالله عواد الجهني",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 743671031,
+"url": "https://verse.mp3quran.net/arabic/abdullaah_aljohani/64/"
+},
+{
+"quality": 128,
+"size": 1328195415,
+"url": "https://verse.mp3quran.net/arabic/abdullaah_aljohani/128/"
+}
+]
+},
+{
+"id": "67",
+"name": "عبدالمحسن القاسم",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 654113489,
+"url": "https://verse.mp3quran.net/arabic/abdulmohsin_alqasim/64/"
+},
+{
+"quality": 128,
+"size": 1463393183,
+"url": "https://verse.mp3quran.net/arabic/abdulmohsin_alqasim/128/"
+}
+]
+},
+{
+"id": "74",
+"name": "علي الحذيفي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 32,
+"size": 330052852,
+"url": "https://everyayah.com/data/Hudhaify_32kbps/"
+},
+{
+"quality": 64,
+"size": 911583403,
+"url": "https://verse.mp3quran.net/arabic/ali_alhuthaify/64/"
+},
+{
+"quality": 128,
+"size": 1776723022,
+"url": "https://verse.mp3quran.net/arabic/ali_alhuthaify/128/"
+}
+]
+},
+{
+"id": "76",
+"name": "علي جابر",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 782857443,
+"url": "https://verse.mp3quran.net/arabic/ali_jaber/64/"
+}
+]
+},
+{
+"id": "77",
+"name": "علي حجاج السويسي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 940110508,
+"url": "https://verse.mp3quran.net/arabic/ali_hajjaj/64/"
+},
+{
+"quality": 128,
+"size": 1819237516,
+"url": "https://verse.mp3quran.net/arabic/ali_hajjaj/128/"
+}
+]
+},
+{
+"id": "81",
+"name": "فارس عباد",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 646018436,
+"url": "https://verse.mp3quran.net/arabic/fares_abbad/64/"
+}
+]
+},
+{
+"id": "86",
+"name": "ناصر القطامي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 826890887,
+"url": "https://verse.mp3quran.net/arabic/nasser_alqatami/64/"
+},
+{
+"quality": 128,
+"size": 1222873806,
+"url": "https://verse.mp3quran.net/arabic/nasser_alqatami/128/"
+}
+]
+},
+{
+"id": "89",
+"name": "هاني الرفاعي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 785708937,
+"url": "https://verse.mp3quran.net/arabic/hani_alrifai/64/"
+},
+{
+"quality": 128,
+"size": 1537900292,
+"url": "https://verse.mp3quran.net/arabic/hani_alrifai/128/"
+},
+{
+"quality": 192,
+"size": 2153177243,
+"url": "https://everyayah.com/data/Hani_Rifai_192kbps/"
+}
+]
+},
+{
+"id": "92",
+"name": "ياسر الدوسري",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 773726471,
+"url": "https://verse.mp3quran.net/arabic/yasser_aldossary/64/"
+},
+{
+"quality": 128,
+"size": 1543235031,
+"url": "https://verse.mp3quran.net/arabic/yasser_aldossary/128/"
+}
+]
+},
+{
+"id": "102",
+"name": "ماهر المعيقلي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 634019670,
+"url": "https://verse.mp3quran.net/arabic/maher_almuaiqly/64/"
+},
+{
+"quality": 128,
+"size": 1262436896,
+"url": "https://verse.mp3quran.net/arabic/maher_almuaiqly/128/"
+}
+]
+},
+{
+"id": "106",
+"name": "محمد الطبلاوي",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 904905243,
+"url": "https://verse.mp3quran.net/arabic/mohammad_altablaway/64/"
+},
+{
+"quality": 128,
+"size": 1751995527,
+"url": "https://verse.mp3quran.net/arabic/mohammad_altablaway/128/"
+}
+]
+},
+{
+"id": "109",
+"name": "محمد أيوب",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 32,
+"size": 1382671811,
+"url": "https://everyayah.com/data/Muhammad_Ayyoub_32kbps/"
+},
+{
+"quality": 64,
+"size": 979235993,
+"url": "https://verse.mp3quran.net/arabic/mohammad_ayyoub/64/"
+},
+{
+"quality": 128,
+"size": 1899747086,
+"url": "https://verse.mp3quran.net/arabic/mohammad_ayyoub/128/"
+}
+]
+},
+{
+"id": "111",
+"name": "محمد جبريل",
+"rewaya": "حفص عن عاصم",
+"musshaf_type": 1,
+"bit_rates": [
+{
+"quality": 64,
+"size": 818362996,
+"url": "https://verse.mp3quran.net/arabic/mohammad_jibreel/64/"
+},
+{
+"quality": 128,
+"size": 1544860226,
+"url": "https://verse.mp3quran.net/arabic/mohammad_jibreel/128/"
+}
+]
+}
 ]
