@@ -104,19 +104,19 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 1113799171,
-        "url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/64/"
+"quality": 64,
+"size": 1113799171,
+"url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/64/"
 },
 {
-        "quality": 128,
-        "size": 2077592963,
-        "url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/128/"
+"quality": 128,
+"size": 2077592963,
+"url": "https://verse.mp3quran.net/arabic/khalid_alqahtani/128/"
 },
 {
-        "quality": 192,
-        "size": 2322110255,
-        "url": "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/"
+"quality": 192,
+"size": 2322110255,
+"url": "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/"
 }
 ]
 },
@@ -127,9 +127,9 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 847721287,
-        "url": "https://verse.mp3quran.net/arabic/khalefa_altunaiji/64/"
+"quality": 64,
+"size": 847721287,
+"url": "https://verse.mp3quran.net/arabic/khalefa_altunaiji/64/"
 }
 ]
 },
@@ -140,14 +140,14 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 552995685,
-        "url": "https://verse.mp3quran.net/arabic/saud_alshuraim/64/"
+"quality": 64,
+"size": 552995685,
+"url": "https://verse.mp3quran.net/arabic/saud_alshuraim/64/"
 },
 {
-        "quality": 128,
-        "size": 1101057096,
-        "url": "https://verse.mp3quran.net/arabic/saud_alshuraim/128/"
+"quality": 128,
+"size": 1101057096,
+"url": "https://verse.mp3quran.net/arabic/saud_alshuraim/128/"
 }
 ]
 },
@@ -158,14 +158,14 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 755864705,
-        "url": "https://verse.mp3quran.net/arabic/sahl_yassin/64/"
+"quality": 64,
+"size": 755864705,
+"url": "https://verse.mp3quran.net/arabic/sahl_yassin/64/"
 },
 {
-        "quality": 128,
-        "size": 1452689069,
-        "url": "https://verse.mp3quran.net/arabic/sahl_yassin/128/"
+"quality": 128,
+"size": 1452689069,
+"url": "https://verse.mp3quran.net/arabic/sahl_yassin/128/"
 }
 ]
 },
@@ -189,9 +189,9 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 40,
-        "size": 598655872,
-        "url": "https://everyayah.com/data/Parhizgar_48kbps/"
+"quality": 40,
+"size": 598655872,
+"url": "https://everyayah.com/data/Parhizgar_48kbps/"
 }
 ]
 },
@@ -202,14 +202,14 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 659765980,
-        "url": "https://verse.mp3quran.net/arabic/salah_albudair/64/"
+"quality": 64,
+"size": 659765980,
+"url": "https://verse.mp3quran.net/arabic/salah_albudair/64/"
 },
 {
-        "quality": 128,
-        "size": 1355249061,
-        "url": "https://verse.mp3quran.net/arabic/salah_albudair/128/"
+"quality": 128,
+"size": 1355249061,
+"url": "https://verse.mp3quran.net/arabic/salah_albudair/128/"
 }
 ]
 },
@@ -220,14 +220,14 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 733716870,
-        "url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/64/"
+"quality": 64,
+"size": 733716870,
+"url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/64/"
 },
 {
-        "quality": 128,
-        "size": 1408521878,
-        "url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/128/"
+"quality": 128,
+"size": 1408521878,
+"url": "https://verse.mp3quran.net/arabic/salaah_bukhatir/128/"
 }
 ]
 },
@@ -238,14 +238,14 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 903568387,
-        "url": "https://www.everyayah.com/data/Abdul_Basit_Murattal_64kbps/"
+"quality": 64,
+"size": 903568387,
+"url": "https://www.everyayah.com/data/Abdul_Basit_Murattal_64kbps/"
 },
 {
-        "quality": 192,
-        "size": 2679668090,
-        "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+"quality": 192,
+"size": 2679668090,
+"url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
 }
 ]
 },
@@ -256,14 +256,14 @@
 "musshaf_type": 2,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 1913891304,
-        "url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/64/"
+"quality": 64,
+"size": 1913891304,
+"url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/64/"
 },
 {
-        "quality": 128,
-        "size": 3529949522,
-        "url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/128/"
+"quality": 128,
+"size": 3529949522,
+"url": "https://verse.mp3quran.net/arabic/abdulbasit_abdulsamad_mujawwad/128/"
 }
 ]
 },
@@ -274,19 +274,19 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 64,
-        "size": 670054273,
-        "url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/64/"
+"quality": 64,
+"size": 670054273,
+"url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/64/"
 },
 {
-        "quality": 128,
-        "size": 1499601384,
-        "url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/128/"
+"quality": 128,
+"size": 1499601384,
+"url": "https://verse.mp3quran.net/arabic/abdurrahmaan_alsudais/128/"
 },
 {
-        "quality": 192,
-        "size": 1813519256,
-        "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/"
+"quality": 192,
+"size": 1813519256,
+"url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/"
 }
 ]
 },
@@ -298,9 +298,9 @@
 "musshaf_type": 1,
 "bit_rates": [
 {
-        "quality": 128,
-        "size": 1476037256,
-        "url": "https://www.everyayah.com/data/aziz_alili_128kbps/"
+"quality": 128,
+"size": 1476037256,
+"url": "https://www.everyayah.com/data/aziz_alili_128kbps/"
 }
 ]
 },
