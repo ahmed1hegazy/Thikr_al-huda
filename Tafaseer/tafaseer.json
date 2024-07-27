@@ -42,4 +42,10 @@
 "id":"8",
 "name":"تفسير الجلالين",
 "url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/jalalayn.json"
-}]
+},
+{
+"id":"tanzil",
+"name":"أسبابُ النُّزول",
+"url":"https://github.com/ahmed1hegazy/Thikr_al-huda/releases/download/tafasir/tanzil.json"
+}
+]
