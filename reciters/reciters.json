@@ -440,6 +440,19 @@
 ]
 },
 {
+"id":"278",
+"name":"كريم منصوري",
+"rewaya":"حفص عن عاصم",
+"musshaf_type":2,
+"bit_rates":[
+{
+"quality":40,
+"size":1052913291,
+"url":"https://www.everyayah.com/data/Karim_Mansoori_40kbps/"
+}
+]
+},
+{
 "id":"maher_almuaiqly",
 "name":"ماهر المعيقلي",
 "rewaya":"حفص عن عاصم",
@@ -724,6 +737,24 @@
 "quality":128,
 "size":1543235031,
 "url":"https://verse.mp3quran.net/arabic/yasser_aldossary/128/"
+}
+]
+},
+{
+"id":"152",
+"name":"ياسر سلامة",
+"rewaya":"حفص عن عاصم",
+"musshaf_type":1,
+"bit_rates":[
+{
+"quality":64,
+"size":803356844,
+"url":"https://verse.mp3quran.net/arabic/yaser_salamah/64/"
+},
+{
+"quality":128,
+"size":1602660845,
+"url":"https://verse.mp3quran.net/arabic/yaser_salamah/128/"
 }
 ]
 },
